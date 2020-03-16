@@ -1,0 +1,4 @@
+C:\Users\USER\source\repos\Mille\Mille\bin\Debug\netcoreapp3.0\Mille.exe
+C:\Users\USER\source\repos\Mille\Mille\obj\Debug\netcoreapp3.0\Mille.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Mille\Mille\obj\Debug\netcoreapp3.0\Mille.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Mille\Mille\obj\Debug\netcoreapp3.0\Mille.AssemblyInfo.cs
